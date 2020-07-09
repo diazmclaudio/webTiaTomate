@@ -9914,9 +9914,36 @@ html, body {
   margin: 0;
 }
 
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+  font-size: 50px;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.header {
+  background-color: #ffffff;
+}
+
 .header__logo {
-  width: 200px;
+  width: 12.5rem;
   height: auto;
+}
+
+.main {
+  background-color: #e56353;
+  color: #ffffff;
+  margin-top: 5rem;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 /*# sourceMappingURL=main.css.map */
