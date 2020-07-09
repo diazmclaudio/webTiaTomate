@@ -9914,4 +9914,9 @@ html, body {
   margin: 0;
 }
 
+.header__logo {
+  width: 200px;
+  height: auto;
+}
+
 /*# sourceMappingURL=main.css.map */
